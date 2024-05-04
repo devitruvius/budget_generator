@@ -64,3 +64,15 @@ This project creates a PDF file with a project budget estimate. The user enters 
 * The script uses a template PNG file ("template.png") to create the PDF layout. Make sure to place this file in the same directory as the script.
 * You can customize the template file to match your desired design.
 * The script can be extended to include additional features, such as generating a detailed breakdown of costs by task or adding more information to the PDF file.
+
+## Contributing
+
+Please feel free to fork the repository and submit pull requests.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Contact
+
+If you have any questions or suggestions, please feel free to contact me.
